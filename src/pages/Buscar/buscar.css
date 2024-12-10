@@ -1,0 +1,151 @@
+.SearchArea_searchArea__pEFLV {
+    display: grid;
+    grid-template-columns: 1fr max-content;
+    gap: 12px;
+}
+
+.SearchPage_searchPage__CcmzC {
+    position: relative;
+    z-index: 0;
+    display: grid;
+    gap: 32px;
+    padding-top: 16px;
+    padding-bottom: 40px;
+}
+
+.SearchKeywordInput_textField__wcC5r {
+    min-width: 0;
+    border: none;
+}
+
+
+.SearchKeywordInput_searchKeywordInput___gwUn {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 8px;
+    width: 100%;
+    height: 40px;
+    padding: 0 12px;
+    background-color: #fff;
+    border: 3px solid #000;
+    border-radius: 8px;
+}
+
+.SearchKeywordInput_gridItemAlignCenter__FTERy {
+    display: flex;
+    align-items: center;
+}
+
+.SearchKeywordInput_closeButton__2DiH2 {
+    position: relative;
+    width: 1.25rem;
+    height: 1.25rem;
+    padding: 0;
+    line-height: 1;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 50%;
+}
+
+.TextButton_sm__PKaw6 {
+    padding: 5px 12px;
+    font-size: .75rem;
+}
+
+.SearchEntranceView_searchEntranceView___oqVl {
+    position: relative;
+    z-index: 0;
+    display: grid;
+    gap: 40px;
+}
+
+.SearchEntranceView_categoryIndex__YQx5e {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.SearchEntranceView_categoryIndex__YQx5e {
+    display: grid;
+    gap: 16px;
+}
+
+.TextButton_md__V8uv3 {
+    padding: 11px 12px;
+    font-size: .875rem;
+}
+
+.TextButton_root__ZT9nJ {
+    font-weight: 800;
+    line-height: calc(100% + 8px);
+    text-align: center;
+}
+
+.Button_white__sPHVF {
+    color: #000;
+    background-color: #fff;
+}
+
+.SearchByGenreSection_root__4ht5f {
+    padding: 40px 0;
+    background-color: rgba(0, 0, 0, .1);
+}
+
+.SearchByGenreSection_contents__xJ52L {
+    display: grid;
+    gap: 24px;
+}
+
+.SimpleModerateHeading_wrapper___Arlx {
+    display: flex;
+    align-items: center;
+    margin-left: -8px;
+}
+
+.SimpleModerateHeading_title__l5i0E {
+    flex-grow: 1;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1.5;
+    color: #000;
+}
+
+.NavTextLink_link__iGuhd {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: right;
+}
+
+.NavTextLink_text__cqf0R {
+    vertical-align: middle;
+}
+
+.NavTextLink_icon__TvSTt {
+    display: inline-block;
+    width: auto;
+    height: 1em;
+    margin-left: .25rem;
+    vertical-align: middle;
+}
+
+.Tiles_root__pRxBE {
+    --col-sp: 1;
+    --col-pc: 1;
+    --gap-sp-row: 24px;
+    --gap-sp-column: 16px;
+    --gap-pc-row: 24px;
+    --gap-pc-column: 24px;
+    display: grid;
+    grid-template-rows: auto;
+}
+
+.Button_root__9nG82 {
+    display: inline-block;
+    margin-bottom: 4px;
+    color: #000;
+    background: #1cfdff;
+    border: 3px solid #000;
+    border-radius: 8px;
+    box-shadow: 0 4px 0 #000;
+}

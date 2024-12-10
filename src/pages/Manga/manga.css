@@ -1,0 +1,237 @@
+._root_jrxn1_7 {
+    max-height: var(--viewer-footer, 40px);
+    position: relative;
+    color: #ffffff;
+}
+
+._root_jrxn1_7 * {
+    color: #ffffff; 
+}
+
+._lower_jrxn1_23 {
+    line-height: 1;
+    max-height: var(--viewer-footer, 40px);
+    display: grid;
+    place-items: center;
+    grid-template-columns: 1fr max-content 1fr;
+    background-color: #000;
+    padding: 6px 12px;
+}
+
+._left_jrxn1_33 {
+    justify-self: start;
+}
+
+._root_4qxo0_7 {
+    justify-self: flex-start;
+    display: flex;
+}
+
+._button_1ymz2_7 {
+    background: none;
+    border: none;
+    padding: 0 8px;
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+}
+
+._icon_1ymz2_19 {
+    margin-right: 4px;
+}
+
+._center_jrxn1_37 {
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+._right_jrxn1_41 {
+    justify-self: end;
+}
+
+._viewport_1kgtc_15 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: grid;
+    place-content: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: 2147483647;
+    pointer-events: none;
+}
+
+._blankPageContent_c4gkk_34 {
+    width: 100%;
+    height: 596px;
+    background-color: #393939; 
+
+}
+
+.ContentsDetailPage_episodeTitleArea__rJP2C {
+    padding: 16px 0 20px;
+}
+
+.EpisodeTitleArea_episodeMeta__Cdl4S {
+    display: grid;
+    gap: 8px;
+}
+
+.EpisodeTitleArea_updateDate__FDgs_ {
+    font-size: .75rem;
+    font-weight: 500;
+    color: gray;
+}
+
+.EpisodeTitleArea_contents__k8ncM {
+    display: grid;
+    grid-template-columns: 1fr max-content;
+    gap: 8px;
+}
+
+.EpisodeTitleArea_title__dOV6R {
+    font-size: 1.125rem;
+}
+
+.TextButton_sm__PKaw6 {
+    padding: 5px 12px;
+    font-size: .75rem;
+}
+
+.TextButton_root__ZT9nJ {
+    font-weight: 800;
+    line-height: calc(100% + 8px);
+    text-align: center;
+}
+
+.AuthorList_author__i8F_k {
+    text-decoration: underline;
+}
+
+.ContentsDetailPage_hrThin__zW4i9 {
+    height: 1px;
+    background-color: #efefef;
+    border: 0;
+}
+
+.ContentsDetailPage_twoColumnOnPcArea__652J9 {
+    display: grid;
+}
+
+.ContentsDetailPage_twoColumnOnPcArea__652J9 {
+    grid-template: "workDetailAndComicInfo episodeList" auto / 320px 1fr;
+    gap: 24px;
+    padding: 24px 0 36px;
+}
+
+.ContentsDetailPage_twoColumnOnPcArea__652J9 .ContentsDetailPage_workDetailAndComicInfo__1w7QW {
+    gap: 36px;
+}
+
+.WorkDetailsSection_thumbnail__Gswld {
+    position: relative;
+    overflow: hidden;
+    border: 3px solid #000;
+    border-radius: 8px;
+}
+
+.WorkDetailsSection_tagContainer__BChj7 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -8px;
+    margin-left: -12px;
+}
+
+.WorkDetailsSection_pcDetailArea__pJL2b .WorkDetailsSection_pcDetailContent__u2NRs {
+    display: grid;
+    gap: 12px;
+}
+
+.WorkDetailsSection_description__jfAmX, .WorkDetailsSection_summary__TiSy0 {
+    font-size: .875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    word-break: break-all;
+    white-space: pre-line;
+}
+
+.TinyTagButton_tinyTagButton__j995V.TinyTagButton_sm__g1ktp {
+    font-size: .75rem;
+    font-weight: 500;
+}
+
+.WorkDetailsSection_tagContainer__BChj7 > * {
+    margin-top: 8px;
+    margin-left: 12px;
+}
+
+.TinyTagButton_tinyTagButton__j995V {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 4px;
+    place-items: center;
+}
+
+.EpisodeListSection_tabList__LFBwR {
+    max-width: 468px;
+    margin: 0 auto;
+}
+
+.Tabs_tabsList__nBIVB {
+    display: flex;
+}
+
+.EpisodeListSection_tabContent__cf6Ii {
+    padding-top: 20px;
+}
+
+.EpisodesTabContents_root__VrJZ1 {
+    display: grid;
+    gap: 16px;
+}
+
+.EpisodesTabContents_meta__69gzW {
+    display: grid;
+    grid-template-columns: 1fr max-content;
+    align-items: center;
+}
+
+.EpisodesTabContents_episodeList__cIDQz {
+    display: grid;
+}
+
+.EpisodesTabContents_episodeList__cIDQz>:not(:last-child) {
+    border-bottom: 3px solid #efefef;
+}
+
+.EpisodeThumbnail_episodeThumbnail__0lFSg {
+    display: grid;
+    grid-template-columns: 108px 1fr;
+    gap: 16px;
+    width: 100%;
+    padding: 16px 8px;
+}
+
+.EpisodeThumbnail_title__G1eWj {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    font-size: .875rem;
+    font-weight: 500;
+}
+
+.EpisodeThumbnail_titleWrapper__BA_Xg {
+    display: grid;
+    gap: 8px;
+    align-self: start;
+}
+
+.EpisodeThumbnail_updateDate__OYfbI {
+    font-size: .75rem;
+    font-weight: 500;
+    color: gray;
+}

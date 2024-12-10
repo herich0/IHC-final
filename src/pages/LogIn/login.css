@@ -1,0 +1,255 @@
+/* Header */
+
+.site {
+    padding: 0;
+    font-size: 1.25rem;
+    font-weight: 800;
+}
+
+.Layout_headerWrapper__OxZzz {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    grid-area: header;
+}
+
+.ComicWalkerHeader_headerThin__4JOlC {
+    padding: 4px 8px;
+}
+
+.ComicWalkerHeader_linkGroup__BCbtp {
+    display: flex;
+    margin-left: -16px;
+}
+
+.ComicWalkerHeader_linkGroup__BCbtp > * {
+    margin-left: 16px;
+}
+
+.ComicWalkerHeader_linkTextItem__FYEUk {
+    display: flex;
+    align-items: center;
+}
+
+.ComicWalkerHeader_linkTextThin__MZWB_ {
+    font-size: .625rem;
+}
+
+/* Body */
+
+.LoginForm_root__LlJGG {
+    display: grid;
+    gap: 32px;
+    padding: 16px 0 40px;
+    font-size: .875rem;
+    font-weight: 500;
+}
+
+.Container_medium__SzLIj {
+    --max-inner-width: 468px;
+}
+
+.Container_gutter__9VgX7 {
+    --gutter: 16px;
+    padding: 0 var(--gutter);
+}
+
+.BubblePageTitleHeading_wrapper__JUPYu {
+    padding-bottom: 1rem;
+}
+
+.BubblePageTitleHeading_bubble__VZrpp {
+    position: relative;
+    padding: .8125rem;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    text-align: center;
+    background-color: #fff;
+    filter: drop-shadow(1px 4px 0 #000);
+    border: 3px solid;
+    border-radius: 10px;
+}
+
+.BubblePageTitleHeading_bubble__VZrpp:before {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    display: block;
+    width: 1.25rem;
+    height: 1.25rem;
+    content: "";
+    background-color: inherit;
+    border: inherit;
+    border-color: #fff #000 #000 #fff;
+    transform: translateX(-100%) translateY(50%) rotate(45deg);
+    scale: .6 1;
+}
+
+.LoginForm_form__3t_gh {
+    display: grid;
+    gap: 32px;
+}
+
+.FormRoot_fieldset__IXr9n {
+    padding: 0;
+    margin: 0;
+    border-width: 0;
+}
+
+.Fallible_root__nK4B1, .FormControl_formControl__vVVRX {
+    display: grid;
+    gap: 12px;
+}
+
+.FormLabel_formLabel__u8VyQ {
+    font-size: .875rem;
+    font-weight: 800;
+}
+
+.Input_input__eQdI6 {
+    width: 100%;
+    height: 48px;
+    padding: 12px;
+    font-size: 1rem;
+    font-weight: 700;
+    background: #fff;
+    border: 3px solid #000;
+    border-radius: 8px;
+}
+
+.LoginForm_registerParagraph__BRpG1, .LoginForm_rescueParagraph__gBVLf {
+    line-height: 20px;
+    text-align: center;
+}
+
+.AnchorText_anchorText__f116j {
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+
+.Fallible_root__nK4B1, .FormControl_formControl__vVVRX {
+    display: grid;
+    gap: 12px;
+}
+
+.SpinnableTextButton_md__MeCUa {
+    padding: 11px 12px;
+    font-size: .875rem;
+}
+
+.SpinnableTextButton_root__2Y_m7 {
+    position: relative;
+    font-weight: 800;
+    line-height: calc(100% + 8px);
+    text-align: center;
+}
+
+.Button_root__9nG81 {
+    display: inline-block;
+    margin-bottom: 4px;
+    color: #000;
+    background: var(--bg-color, ##00eeff);
+    border: 3px solid #000;
+    border-radius: 8px;
+    box-shadow: 0 4px 0 #000;
+    cursor: pointer;
+}
+
+.Button_root__9nG82 {
+    display: inline-block;
+    margin-bottom: 4px;
+    color: #000;
+    background: var(--bg-color, ##1cfdff);
+    border: 3px solid #000;
+    border-radius: 8px;
+    box-shadow: 0 4px 0 #000;
+    cursor: pointer;
+}
+
+
+.LoginForm_registerLink___jmov {
+    font-weight: 800;
+}
+
+/* Footer */
+
+.FooterAppPromotion_pcRoot__VzYj1 {
+    color: #fff;
+    background-color: #000;
+}
+
+    .FooterAppPromotion_pcRoot__VzYj1 .FooterAppPromotion_pcContent__Juyx1 {
+        display: grid;
+        gap: 6px 10px;
+        justify-content: center;
+        padding: 20px 0 24px;
+    }
+
+FooterAppPromotion_pcRoot__VzYj1 .FooterAppPromotion_pcDownload__P_Zh0 {
+    display: grid;
+    grid-area: download;
+    grid-auto-flow: column;
+    gap: 10px;
+    justify-content: center;
+}
+
+.FooterAppPromotion_pcRoot__VzYj1 .FooterAppPromotion_pcBadge__0fFRY {
+    width: auto;
+    height: 44px;
+}
+
+.Layout_footerWrapper__ctyRT {
+    grid-area: footer;
+}
+
+.ComicWalkerFooter_footer__zULWM {
+    color: #fff;
+    background-color: #393939;
+}
+
+.ComicWalkerFooter_content__KZOuE {
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    gap: 40px;
+    place-content: center;
+    padding: 40px 0;
+    margin: 0 auto;
+}
+
+.ComicWalkerFooter_linkList__Obx6M {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 0 16px;
+    font-size: .75rem;
+    font-weight: 500;
+    margin-left: -24px;
+    margin-top: -24px;
+}
+
+    .ComicWalkerFooter_linkList__Obx6M > * {
+        margin-left: 24px;
+        margin-top: 24px;
+    }
+
+.ComicWalkerFooter_ABJMarkWrapper__XAABa {
+    display: grid;
+    grid-template-columns: minmax(60px, auto) 1fr;
+    gap: 16px;
+    margin: 0 auto;
+}
+
+.ComicWalkerFooter_copyright__1eoYK {
+    font-size: .625rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+.FooterAppPromotion_pcRoot__VzYj1 .FooterAppPromotion_pcDownload__P_Zh0 {
+    display: grid;
+    grid-area: download;
+    grid-auto-flow: column;
+    gap: 10px;
+    justify-content: center;
+}

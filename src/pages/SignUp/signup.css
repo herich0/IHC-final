@@ -1,0 +1,40 @@
+.FormHelperText_formHelperText__jXmLP {
+    font-size: .75rem;
+    font-weight: 500;
+    line-height: 18px;
+    color: gray;
+}
+
+.FormMultiField_formMultiField__JyZCy {
+    display: grid;
+    gap: 12px;
+}
+
+.FormMultiField_fieldset__kGXib {
+    display: contents;
+}
+
+.FormControlLabel_formControlLabel__Ss4k0 {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 8px;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.Checkbox_checkbox__XeQ0k {
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    border: 3px solid;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.Checkbox_checkIcon__h_1Ef {
+    max-inline-size: none;
+    width: 24px;
+    height: 24px;
+    margin-top: -3px;
+    margin-left: -3px;
+}
